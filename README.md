@@ -1,4 +1,7 @@
-
+ <style>
+   image: width: 400px;
+ </style>
+ 
 - 👋 Hi, I’m @HENRICKZIN
 - 👀 Estou interessado em aprender mais;
 - 🌱 Atualmente estou aprendendo: Curso de TI grau cabo;
